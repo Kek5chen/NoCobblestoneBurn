@@ -1,0 +1,4 @@
+name: NoCobblestoneBurn
+version: '${project.version}'
+main: me.kx.nocobbleburn.NoCobbleBurn
+api-version: 1.18
