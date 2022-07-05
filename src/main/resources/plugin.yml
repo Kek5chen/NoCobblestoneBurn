@@ -1,4 +1,4 @@
-name: NoCobblestoneBurn
+name: SkyBlockAdditions
 version: '${project.version}'
-main: me.kx.nocobbleburn.NoCobbleBurn
+main: me.kx.skyblockadditions.SkyBlockAdditions
 api-version: 1.18
